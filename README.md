@@ -1,8 +1,4 @@
-# Project Title
-
-Admin Dashboard
-
-## Description
+# Admin Dashboard
 
 An exercise from The Odin Project to practice using CSS Grids for an admin dashboard. From the Intermediate HTML and CSS Course under the fullstack JavaScript pathway.
 
